@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PW_Manager", "PW_Manager\PW_Manager.csproj", "{57BAC587-C22F-4251-912D-513DB45CA499}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C1FF0A0-932D-481A-B0C2-5BC2981C70EC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{38291E14-8D5D-4EC3-B8BB-EC616A6CA266}"
+	ProjectSection(SolutionItems) = preProject
+		accounts.json = accounts.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57BAC587-C22F-4251-912D-513DB45CA499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BAC587-C22F-4251-912D-513DB45CA499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BAC587-C22F-4251-912D-513DB45CA499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BAC587-C22F-4251-912D-513DB45CA499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {904BEB7C-9ACD-47B6-9407-CCA2B0AA93D0}
+	EndGlobalSection
+EndGlobal

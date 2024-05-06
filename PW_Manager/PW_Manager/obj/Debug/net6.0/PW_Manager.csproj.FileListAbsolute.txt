@@ -1,0 +1,29 @@
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.exe
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.deps.json
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.runtimeconfig.json
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.dll
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.pdb
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.AssemblyInfoInputs.cache
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.AssemblyInfo.cs
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.dll
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\refint\PW_Manager.dll
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.pdb
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.genruntimeconfig.cache
+C:\Users\Sandr\Desktop\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\ref\PW_Manager.dll
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.exe
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.deps.json
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.runtimeconfig.json
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.dll
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\bin\Debug\net6.0\PW_Manager.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.AssemblyInfoInputs.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.AssemblyInfo.cs
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.dll
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\refint\PW_Manager.dll
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.pdb
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.genruntimeconfig.cache
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\ref\PW_Manager.dll
+C:\Users\Sandr\OneDrive - sluz\Dokumente\BMSD22a\Informatik\3. Semester\IPT 5.1\Auftrag Passwortmanager\ipt5.1_passwortmanager\PW_Manager\PW_Manager\obj\Debug\net6.0\PW_Manager.sourcelink.json
